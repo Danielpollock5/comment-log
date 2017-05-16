@@ -1,0 +1,26 @@
+body{
+	background-image: url('../images/back-ground.jpg');
+
+}
+h1{
+	margin: 30px 0 20px;
+	font-size: 48px;
+	color: #a64921;
+}
+input{
+	background-color: transparent;
+	margin: 20px auto;
+}
+textarea{
+	background-color: transparent;
+	
+
+}
+button{
+	background-color: transparent;
+	border-color: white;
+	margin: 25px auto;
+}
+#comment{
+	height: 150px;
+}
